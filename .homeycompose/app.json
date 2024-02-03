@@ -1,0 +1,30 @@
+{
+  "id": "dk.stangsdal.nilancts602",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Nilan CTS 602",
+    "da": "Nilan CTS 602"
+  },
+  "description": {
+    "en": "Nilan CTS 602 controller",
+    "da": "Nilan CTS 602 controller"
+  },
+  "category": [
+    "climate"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Peter Kristensen",
+    "email": "peter@stangsdal.dk"
+  }
+}
